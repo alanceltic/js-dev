@@ -6,14 +6,14 @@
   [Values, Variables, and Types](#values-variables-and-types)<br />
   [Functions](#functions)<br />
   [Program Flow](#program-flow)<br />
-  [Scope and Closures](#scope-and-closures)<br />
   [Timing, Referencing and Events](#timing-referencing-and-events)<br />
   [The Window Object](#the-window-object)<br />
   [Dynamic HTML](#dynamic-html)<br />
-  [Prototypes and Classes](#prototype-sand-classes)<br />
+  [Prototypes and Classes](#prototypes-and-classes)<br />
   [API Calls](#api-calls)<br />
   [Functional Array Transformations](#functional-array-transformations)<br />
-  [Asynchronous Techniques](#asynchronous-techniques)<br />
+  [Scope and Closures](#scope-and-closures)<br />
+  [Asynchronous](#asynchronous)<br />
 
 
 ## Introduction
@@ -25,14 +25,14 @@
 
 
 ## Values, Variables, and Types
-[Recommended reading](recommended-reading.md#text-elements)
+[Recommended reading](recommended-reading.md#values-variables-and-types)
 - xx
 - **Instructor-led exercise**:
 <br>*We will initialise and re-assign variables with different values to see how JS is duck-typed*.
 
 
 ## Functions
-[Recommended reading](recommended-reading.md#hyperlinks)
+[Recommended reading](recommended-reading.md#functions)
 
 - Function declarations
 - Function expressions
@@ -41,25 +41,15 @@
 
 
 ## Program Flow
-[Recommended reading](recommended-reading.md#hyperlinks)
+[Recommended reading](recommended-reading.md#program-flow)
 
 - xx
 - [**Assignment - guessing game** ](#)
 <br>*Use loops and conditionals in JS to build out this random number guessing game. Part 2: keep total scores and running averages.*
   
 
-## Scope and Closures
-[Recommended reading](recommended-reading.md#further-css-selectors)
-
-- xx
-- **Instructor-led exercise**:
-<br>*TBC*.
-- [**Assignment - scope and closures**](#)
-<br>*TBC.*
-
-
 ## Timing, Referencing and Events
-[Recommended reading](recommended-reading.md#structuring-content)
+[Recommended reading](recommended-reading.md#timing-referencing-and-events)
 
 - xx
 - **Instructor-led exercise - TBC:**
@@ -69,7 +59,7 @@
 
 
 ## The Window Object
-[Recommended reading](recommended-reading.md#multimedia-and-embedding)
+[Recommended reading](recommended-reading.md#the-window-object)
 
 - xx
 - [**Assignment - break the clock**](#)
@@ -77,7 +67,7 @@
 
 
 ## Dynamic HTML
-[Recommended reading](recommended-reading.md#tables)
+[Recommended reading](recommended-reading.md#dynamic-html)
 
 - xx
 - **Instructor-led exercise: TODO**
@@ -85,7 +75,7 @@
 
 
 ## Prototypes and Classes 
-[Recommended reading](recommended-reading.md#tables)
+[Recommended reading](recommended-reading.md#prototypes-and-classes)
 
 - xx
 - **Instructor-led exercise: TODO**
@@ -93,7 +83,7 @@
 
 
 ## API Calls
-[Recommended reading](recommended-reading.md#forms)
+[Recommended reading](recommended-reading.md#api-calls)
 
 - xx
 - [**Assignment - Random Jokes**](#)
@@ -101,15 +91,25 @@
 
 
 ## Functional Array Transformations
-[Recommended reading](recommended-reading.md#further-layout)
+[Recommended reading](recommended-reading.md#functional-array-transformations)
 
 - xx
 - [**Assignment - Video Catalogue**](#) ****available as extension exercise***
 <br>*Take a supplied list of videos, titles, categories and timings, and devise four functions to present different views of the data accordingly. Do not change the original list.*
 
 
-## Asynchronous Techniques
-[Recommended reading](recommended-reading.md#ui-frameworks)
+## Scope and Closures
+[Recommended reading](recommended-reading.md#scope-and-closures)
+
+- xx
+- **Instructor-led exercise**:
+<br>*TBC*.
+- [**Assignment - scope and closures**](#)
+<br>*TBC.*
+
+
+## Asynchronous 
+[Recommended reading](recommended-reading.md#asynchronous)
 
 - xx:
 - [**Assignment - PWA**](#)
