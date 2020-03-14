@@ -4,11 +4,13 @@
 
 > [Introduction](#introduction)<br />
   [Values, Variables, and Types](#values-variables-and-types)<br />
+  [Functions](#functions)<br />
   [Program Flow](#program-flow)<br />
   [Scope and Closures](#scope-and-closures)<br />
-  [Timing and Referencing](#timing-and-referencing)<br />
+  [Timing, Referencing and Events](#timing-referencing-and-events)<br />
   [The Window Object](#the-window-object)<br />
   [Dynamic HTML](#dynamic-html)<br />
+  [Prototypes and Classes](#prototype-sand-classes)<br />
   [API Calls](#api-calls)<br />
   [Functional Array Transformations](#functional-array-transformations)<br />
   [Asynchronous Techniques](#asynchronous-techniques)<br />
@@ -29,6 +31,15 @@
 <br>*We will initialise and re-assign variables with different values to see how JS is duck-typed*.
 
 
+## Functions
+[Recommended reading](recommended-reading.md#hyperlinks)
+
+- Function declarations
+- Function expressions
+- [**Assignment - TBC** ](#)
+<br>*Reuse something that's procedural code and make it accept arguments and run as a function.*
+
+
 ## Program Flow
 [Recommended reading](recommended-reading.md#hyperlinks)
 
@@ -46,7 +57,8 @@
 - [**Assignment - scope and closures**](#)
 <br>*TBC.*
 
-## Timing and Referencing
+
+## Timing, Referencing and Events
 [Recommended reading](recommended-reading.md#structuring-content)
 
 - xx
@@ -65,6 +77,14 @@
 
 
 ## Dynamic HTML
+[Recommended reading](recommended-reading.md#tables)
+
+- xx
+- **Instructor-led exercise: TODO**
+<br>*We will make a dynamic TODO list app in vanilla JS.*
+
+
+## Prototypes and Classes 
 [Recommended reading](recommended-reading.md#tables)
 
 - xx
