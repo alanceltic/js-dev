@@ -3,15 +3,15 @@
 ## Modern JavaScript For Front End Development
 
 > [Introduction](#introduction)<br />
-  [Values, Variables, and Types](#text-elements)<br />
-  [Program Flow](#hyperlinks)<br />
-  [Scope and Closures](#further-css-selectors)<br />
-  [Timing and Referencing](#structuring-content)<br />
-  [The Window Object](#multimedia-and-embedding)<br />
-  [Dynamic HTML](#tables)<br />
-  [API Calls](#forms)<br />
-  [Functional Array Transformations](#further-layout)<br />
-  [Asynchronous Techniques](#ui-frameworks)<br />
+  [Values, Variables, and Types](#values-variables-and-types)<br />
+  [Program Flow](#program-flow)<br />
+  [Scope and Closures](#scope-and-closures)<br />
+  [Timing and Referencing](#timing-and-referencing)<br />
+  [The Window Object](#the-window-object)<br />
+  [Dynamic HTML](#dynamic-html)<br />
+  [API Calls](#api-calls)<br />
+  [Functional Array Transformations](#functional-array-transformations)<br />
+  [Asynchronous Techniques](#asynchronous-techniques)<br />
 
 
 ## Introduction
